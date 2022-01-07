@@ -1,12 +1,1 @@
-# HillaryKoros.github.io
-My Personal Page
-
-
-## Education
-
-  -Bsc
-
-
-  ## Employment
-    
-     - Assistant GIS Officer
+My website: https://www.itzahs.com/ 
